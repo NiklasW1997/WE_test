@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ce4f554-3681-45e0-894a-b27206eee1db" name="Default Changelist" comment="Neustart">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/sidebar.html" afterDir="false" />
-    </list>
+    <list default="true" id="8ce4f554-3681-45e0-894a-b27206eee1db" name="Default Changelist" comment="Auslagerung der sidebar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +67,7 @@
       <workItem from="1607166281699" duration="441000" />
       <workItem from="1607166738883" duration="948000" />
       <workItem from="1607251721949" duration="1014000" />
-      <workItem from="1607253113154" duration="1924000" />
+      <workItem from="1607253113154" duration="2543000" />
     </task>
     <task id="LOCAL-00001" summary="Neustart">
       <created>1607166468474</created>
@@ -101,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607253670230</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Auslagerung der sidebar">
+      <created>1607255081699</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607255081699</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +124,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Neustart" />
-    <option name="LAST_COMMIT_MESSAGE" value="Neustart" />
+    <MESSAGE value="Auslagerung der sidebar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Auslagerung der sidebar" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Deployment" timestamp="1607167305326">
@@ -136,10 +140,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="596" y="152" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607167448699" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607253493117">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607255085036">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607253493117" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607255085036" />
     <state x="845" y="250" key="ftp.server.browser" timestamp="1607166888729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
