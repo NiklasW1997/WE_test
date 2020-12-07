@@ -10,14 +10,6 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
 </head>
-<script src="jquery-3.5.1.min.js"></script>
-<script>
-    $(document).ready(function (){
-        $("div[data-includeHTML]").each(function (){
-            $(this).load($(this).attr("data-includeHTML"));
-        })
-    });
-</script>
 <body>
 <div class="container-fluid">
     <div class="jumbotron">
@@ -25,7 +17,9 @@
     </div>
     <div class="row">
 
-        <div data-includeHTML="sidebar.html"></div>
+        <?php
+        include('sidebar.php');
+        ?>
 
         <div class="col-md">
             <div class="card-header">ToDo:</div>

@@ -8,14 +8,6 @@
     <title>Projekte</title>
     <link rel="stylesheet" href="https://unpkg.com/bootstrap@4.5.3/dist/css/bootstrap.min.css">
 </head>
-<script src="jquery-3.5.1.min.js"></script>
-<script>
-    $(document).ready(function (){
-        $("div[data-includeHTML]").each(function (){
-            $(this).load($(this).attr("data-includeHTML"));
-        })
-    });
-</script>
 <body>
 
 <div class="container-fluid">
@@ -24,7 +16,9 @@
     </div>
     <div class="row">
 
-        <div data-includeHTML="sidebar.html"></div>
+        <?php
+        include('sidebar.php');
+        ?>
 
         <div class="col-md-8">
             <h2>Projekte auswählen</h2>

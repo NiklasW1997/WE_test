@@ -9,14 +9,6 @@
     <link rel="stylesheet" href="https://unpkg.com/bootstrap@4.5.3/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
 </head>
-<script src="jquery-3.5.1.min.js"></script>
-<script>
-    $(document).ready(function (){
-        $("div[data-includeHTML]").each(function (){
-            $(this).load($(this).attr("data-includeHTML"));
-        })
-    });
-</script>
 
 <body>
 
@@ -26,7 +18,9 @@
     </div>
     <div class="row">
 
-        <div data-includeHTML="sidebar.html"></div>
+        <?php
+        include('sidebar.php');
+        ?>
 
         <div class="col-md-8">
             <table class="table table-responsive d-table">

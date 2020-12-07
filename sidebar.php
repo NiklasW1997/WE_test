@@ -1,4 +1,4 @@
-<div class="col-md">
+<div class="col-md-2">
     <ul class="nav flex-column">
             <span class="border">
                 <a class="nav-link" href="LogIn.php">LogIn</a>
