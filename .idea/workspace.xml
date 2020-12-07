@@ -19,15 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ce4f554-3681-45e0-894a-b27206eee1db" name="Default Changelist" comment="Aänderung in php">
+    <list default="true" id="8ce4f554-3681-45e0-894a-b27206eee1db" name="Default Changelist" comment="Änderung in php">
+      <change afterPath="$PROJECT_DIR$/AktuellesProjektArray.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AufgabenArray.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgaben.php" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personen.php" beforeDir="false" afterPath="$PROJECT_DIR$/Personen.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekte.php" beforeDir="false" afterPath="$PROJECT_DIR$/Projekte.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reiter.php" beforeDir="false" afterPath="$PROJECT_DIR$/Reiter.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-3.5.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonenArray.php" beforeDir="false" afterPath="$PROJECT_DIR$/PersonenArray.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +81,7 @@
       <workItem from="1607251721949" duration="1014000" />
       <workItem from="1607253113154" duration="3381000" />
       <workItem from="1607337572298" duration="3177000" />
-      <workItem from="1607341278187" duration="1461000" />
+      <workItem from="1607341278187" duration="4997000" />
     </task>
     <task id="LOCAL-00001" summary="Neustart">
       <created>1607166468474</created>
@@ -136,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607341933342</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Änderung in php">
+      <created>1607342778090</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607342778090</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +162,8 @@
     <MESSAGE value="Auslagerung der sidebar" />
     <MESSAGE value="Auslagerung der sidebar in allen Teilen" />
     <MESSAGE value="Aänderung in php" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aänderung in php" />
+    <MESSAGE value="Änderung in php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Änderung in php" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1607341380222">
@@ -174,22 +178,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="163" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1607341263724" />
+    <state x="0" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607344304172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607344304172" />
     <state x="1024" y="368" key="FileChooserDialogImpl" timestamp="1607341329732">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1024" y="368" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607341329732" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1607340077143">
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1607344769896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607340077143" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607344769896" />
     <state x="272" y="254" width="998" height="708" key="SettingsEditor" timestamp="1607341397396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="272" y="254" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607341397396" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607341959295">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607342783746">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607341959295" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607342783746" />
     <state x="845" y="250" key="ftp.server.browser" timestamp="1607166888729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
