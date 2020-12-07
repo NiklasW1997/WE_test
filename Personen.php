@@ -32,15 +32,15 @@
                 <thead align="left">
                 <tr class="table-secondary">
                     <th>Name</th>
-                    <th>Beschreibung</th>
+                    <th>E-Mail</th>
                     <th>In Projekt</th>
 
                 </tr>
                 </thead>
                 <tbody>
                 <tr>
-                    <td>ToDo</td>
-                    <td>Dinge die erledigt werden müssen.</td>
+                    <td>Max Mustermann</td>
+                    <td>mustermann@muster.de</td>
                     <td>
                         <input class="form-check-input" type="checkbox">
                         <span style="float: right"><button type="button" class="btn btn-link"><i class="far fa-trash-alt"></i></button></span>
@@ -48,8 +48,8 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>Erledigt</td>
-                    <td>Dinge die erledigt sind.</td>
+                    <td>Petra Müller</td>
+                    <td>petra@mueller.de.</td>
                     <td>
                         <input class="form-check-input" type="checkbox">
                         <span style="float: right"><button type="button" class="btn btn-link"><i class="far fa-trash-alt"></i></button></span>

@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ce4f554-3681-45e0-894a-b27206eee1db" name="Default Changelist" comment="Auslagerung der sidebar" />
+    <list default="true" id="8ce4f554-3681-45e0-894a-b27206eee1db" name="Default Changelist" comment="Auslagerung der sidebar in allen Teilen">
+      <change afterPath="$PROJECT_DIR$/PersonenArray.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LogIn.html" beforeDir="false" afterPath="$PROJECT_DIR$/LogIn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personen.html" beforeDir="false" afterPath="$PROJECT_DIR$/Personen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/sidebar.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +45,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7" />
   <component name="ProjectId" id="1lEdedCMn92xNO88EH205wukhPW" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,9 +60,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Webentwicklung-test" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/php/php.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="run" />
+    </option>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -67,7 +81,9 @@
       <workItem from="1607166281699" duration="441000" />
       <workItem from="1607166738883" duration="948000" />
       <workItem from="1607251721949" duration="1014000" />
-      <workItem from="1607253113154" duration="2543000" />
+      <workItem from="1607253113154" duration="3381000" />
+      <workItem from="1607337572298" duration="3177000" />
+      <workItem from="1607341278187" duration="535000" />
     </task>
     <task id="LOCAL-00001" summary="Neustart">
       <created>1607166468474</created>
@@ -104,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607255081699</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Auslagerung der sidebar in allen Teilen">
+      <created>1607284762273</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607284762273</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,28 +148,45 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Neustart" />
     <MESSAGE value="Auslagerung der sidebar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Auslagerung der sidebar" />
+    <MESSAGE value="Auslagerung der sidebar in allen Teilen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Auslagerung der sidebar in allen Teilen" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="540" y="175" key="#CLI_Interpreters" timestamp="1607341380222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1607341380222" />
     <state x="552" y="178" key="#Deployment" timestamp="1607167305326">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1607167305326" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1607166794591">
+    <state x="667" y="163" key="#PHP" timestamp="1607341263724">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607166794591" />
-    <state x="596" y="152" key="SettingsEditor" timestamp="1607167448699">
+    <state x="667" y="163" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1607341263724" />
+    <state x="1024" y="368" key="FileChooserDialogImpl" timestamp="1607341329732">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="596" y="152" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607167448699" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607255085036">
+    <state x="1024" y="368" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607341329732" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1607340077143">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607255085036" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607340077143" />
+    <state x="272" y="254" width="998" height="708" key="SettingsEditor" timestamp="1607341397396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="272" y="254" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607341397396" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607284767477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607284767477" />
     <state x="845" y="250" key="ftp.server.browser" timestamp="1607166888729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="845" y="250" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1607166888729" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1607340177192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607340177192" />
   </component>
 </project>

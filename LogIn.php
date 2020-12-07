@@ -20,7 +20,7 @@
         </div>
 
         <div class="col-md-8">
-            <form action="index.html">
+            <form action="index.php">
                 <div class="form-group">
                     <label for="email">Email-Adresse:</label>
                     <input type="email" class="form-control" placeholder="Email-Adresse eingeben " id="email">
