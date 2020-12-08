@@ -26,4 +26,11 @@ echo '<pre>';
 var_dump($personen);
 echo '</pre>';
 
+foreach ($personen as $person){
+    if (isset($person['id'],$person['Name'],$person['E-Mail'],$person['In-Projekt'])){
+        echo('Array ist gesetzt' . '<br>');
+    }else{
+        echo('Array ist nicht gesetzt' . '<br>');
+    }
+}
 ?>

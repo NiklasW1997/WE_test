@@ -44,4 +44,12 @@ echo '<hr>';
 echo '<pre>';
 var_dump($aufgaben);
 echo '</pre>';
+
+foreach ($aufgaben as $aufgabe){
+    if (isset($aufgabe['Aufgabenbezeichnung'],$aufgabe['Beschreibung der Aufgabe'],$aufgabe['Reiter'],$aufgabe['Zuständig'])){
+        echo('Array ist gesetzt' . '<br>');
+    }else{
+        echo('Array ist nicht gesetzt' . '<br>');
+    }
+}
 ?>
