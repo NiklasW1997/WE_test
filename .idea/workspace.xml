@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ce4f554-3681-45e0-894a-b27206eee1db" name="Default Changelist" comment="Arrays">
+    <list default="true" id="8ce4f554-3681-45e0-894a-b27206eee1db" name="Default Changelist" comment="Arrays auf Vollständigkeit geprüft">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AktuellesProjektArray.php" beforeDir="false" afterPath="$PROJECT_DIR$/AktuellesProjektArray.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,8 @@
       <workItem from="1607253113154" duration="3381000" />
       <workItem from="1607337572298" duration="3177000" />
       <workItem from="1607341278187" duration="6868000" />
-      <workItem from="1607418928996" duration="11279000" />
+      <workItem from="1607418928996" duration="12945000" />
+      <workItem from="1607469434301" duration="53000" />
     </task>
     <task id="LOCAL-00001" summary="Neustart">
       <created>1607166468474</created>
@@ -145,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607349402229</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Arrays auf Vollständigkeit geprüft">
+      <created>1607432687709</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607432687709</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +178,8 @@
     <MESSAGE value="Aänderung in php" />
     <MESSAGE value="Änderung in php" />
     <MESSAGE value="Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
+    <MESSAGE value="Arrays auf Vollständigkeit geprüft" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays auf Vollständigkeit geprüft" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1607341380222">
@@ -201,10 +210,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="272" y="254" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607341397396" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607349407132">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607432693143">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607349407132" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607432693143" />
     <state x="845" y="250" key="ftp.server.browser" timestamp="1607166888729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

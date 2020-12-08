@@ -17,7 +17,7 @@
     <div class="row">
 
         <?php
-        include('sidebar.php');
+        include('sidebar.php'); /*Auslagerung der sidebar*/
         ?>
 
         <div class="col-md-8">
